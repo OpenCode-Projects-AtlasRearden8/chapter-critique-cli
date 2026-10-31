@@ -1,7 +1,13 @@
-__pycache__/
-*.py[cod]
 *.egg-info/
-build/
-dist/
+*.py[cod]
+*.pyc
+.env
+.env.*
 .pytest_cache/
+.venv/
+__pycache__/
+build/
 critique-out/
+dist/
+dist/*.tmp
+node_modules/
